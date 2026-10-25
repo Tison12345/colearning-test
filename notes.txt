@@ -4,3 +4,4 @@ Week 1 notes
 - Sketched the first design (v1)
 - Started the data model
 - Chose a language
+Tested the design
