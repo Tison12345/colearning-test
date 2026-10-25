@@ -1,4 +1,6 @@
 Week 1 notes
 - Understood the problem
 - Listed the main features
-- Sketched the first design
+- Sketched the first design (v1)
+- Started the data model
+- Chose a language
