@@ -1,0 +1,4 @@
+Week 1 notes
+- Understood the problem
+- Listed the main features
+- Sketched the first design
